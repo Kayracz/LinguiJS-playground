@@ -1,0 +1,11 @@
+{
+  "welcome.title": {
+    "defaults": "<0>Welcome to my playground</0><1> Let's translate bitchesssss</1>",
+    "origin": [
+      [
+        "src/Home.js",
+        8
+      ]
+    ]
+  }
+}

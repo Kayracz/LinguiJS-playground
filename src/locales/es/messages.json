@@ -25,7 +25,7 @@
     "origin": [
       [
         "src/App.js",
-        15
+        20
       ]
     ]
   },
@@ -35,13 +35,13 @@
     "origin": [
       [
         "src/App.js",
-        42
+        47
       ]
     ]
   },
   "welcome.title": {
     "translation": "<0>Bienvenidos a mi Playground</0><1> A Traducir!</1>",
-    "defaults": "<0>Welcome to my playground</0><1> Let's translate bitchesssss</1>",
+    "defaults": "<0>Welcome to my playground</0><1> Let's translate </1>",
     "origin": [
       [
         "src/Home.js",
